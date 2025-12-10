@@ -107,11 +107,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
   <img src="https://i.imgur.com/DCFUVrM.png" height="75%" width="100%" alt="set new forest"/>
 </p>
 <p>
-  Restart and then log back into DC-1 as user: myadproject.com\labuser:
+  Restart and then log back into DC-1 as user: myadproject.com\dwright:
 </p>
 <p>
-  <img src="https://i.imgur.com/7UakWMQ.png" height="75%" width="100%" alt="fqdn login"/>
-</p>
+ </p>
 <br />
 <br />
 <h3 align="center">Create an Admin and Normal User Account in AD</h3>
@@ -218,8 +217,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
   <img src="https://i.imgur.com/ZZCfiCp.png" height="75%" width="100%" alt="employee user accounts"/>
-  <img src="https://i.imgur.com/7gBpNzN.png" height="75%" width="100%" alt="employee user selection"/>
-  <img src="https://i.imgur.com/cqsddjn.png" height="75%" width="100%" alt="employee user login"/>
+
 </p>
 <br />
 <br />
